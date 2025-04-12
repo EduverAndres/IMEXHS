@@ -1,0 +1,5 @@
+Age: Promedio = 31.08, Desv. Est. = 52.89
+Weight: Promedio = 75.96, Desv. Est. = 32.06
+Height: Promedio = 169.60, Desv. Est. = 34.39
+Cholesterol: Promedio = 198.56, Desv. Est. = 61.78
+HeartRate: Promedio = 87.60, Desv. Est. = 115.24

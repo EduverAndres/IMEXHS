@@ -1,0 +1,56 @@
+2025-04-10 20:44:05,560 - INFO - Solicitud: DELETE http://127.0.0.1:8000/api/elements/1/
+2025-04-10 20:44:05,701 - INFO - Resultado con ID 1 eliminado exitosamente
+2025-04-10 20:44:05,703 - INFO - Respuesta: 200
+2025-04-10 20:48:08,734 - INFO - Solicitud: GET http://127.0.0.1:8000/api/elements/
+2025-04-10 20:48:08,742 - INFO - Se obtuvieron 1 resultados
+2025-04-10 20:48:08,744 - INFO - Respuesta: 200
+2025-04-10 20:48:20,429 - INFO - Solicitud: DELETE http://127.0.0.1:8000/api/elements/2/
+2025-04-10 20:48:20,433 - INFO - Resultado con ID 2 eliminado exitosamente
+2025-04-10 20:48:20,434 - INFO - Respuesta: 200
+2025-04-10 20:48:32,918 - INFO - Solicitud: GET http://127.0.0.1:8000/api/elements/
+2025-04-10 20:48:32,920 - INFO - Se obtuvieron 0 resultados
+2025-04-10 20:48:32,921 - INFO - Respuesta: 200
+2025-04-10 20:48:44,644 - INFO - Solicitud: POST http://127.0.0.1:8000/api/elements/
+2025-04-10 20:48:44,775 - INFO - Datos procesados exitosamente
+2025-04-10 20:48:44,776 - INFO - Respuesta: 200
+2025-04-10 20:50:48,331 - INFO - Solicitud: POST http://127.0.0.1:8000/api/elements/
+2025-04-10 20:50:51,328 - INFO - Datos procesados exitosamente
+2025-04-10 20:50:51,330 - INFO - Respuesta: 200
+2025-04-10 20:51:13,259 - INFO - Solicitud: GET http://127.0.0.1:8000/api/elements/
+2025-04-10 20:51:13,263 - INFO - Se obtuvieron 70 resultados
+2025-04-10 20:51:13,267 - INFO - Respuesta: 200
+2025-04-12 01:04:26,581 - INFO - Solicitud: GET http://127.0.0.1:8000/
+2025-04-12 01:04:26,612 - INFO - Respuesta: 404
+2025-04-12 01:04:31,464 - INFO - Solicitud: GET http://127.0.0.1:8000/favicon.ico
+2025-04-12 01:04:31,465 - INFO - Respuesta: 404
+2025-04-12 01:04:53,811 - INFO - Solicitud: GET http://127.0.0.1:8000/
+2025-04-12 01:04:53,812 - INFO - Respuesta: 404
+2025-04-12 01:04:57,594 - INFO - Solicitud: GET http://127.0.0.1:8000/favicon.ico
+2025-04-12 01:04:57,595 - INFO - Respuesta: 404
+2025-04-12 01:06:38,086 - INFO - Solicitud: GET http://127.0.0.1:8000/
+2025-04-12 01:06:38,086 - INFO - Respuesta: 404
+2025-04-12 01:07:09,637 - INFO - Solicitud: GET http://127.0.0.1:8000/
+2025-04-12 01:07:09,638 - INFO - Respuesta: 404
+2025-04-12 01:07:11,056 - INFO - Solicitud: GET http://127.0.0.1:8000/
+2025-04-12 01:07:11,056 - INFO - Respuesta: 404
+2025-04-12 01:07:11,807 - INFO - Solicitud: GET http://127.0.0.1:8000/
+2025-04-12 01:07:11,808 - INFO - Respuesta: 404
+2025-04-12 01:07:28,832 - INFO - Solicitud: GET http://127.0.0.1:8000/
+2025-04-12 01:07:28,832 - INFO - Respuesta: 404
+2025-04-12 01:07:30,538 - INFO - Solicitud: GET http://127.0.0.1:8000/
+2025-04-12 01:07:30,539 - INFO - Respuesta: 404
+2025-04-12 01:08:00,334 - INFO - Solicitud: GET http://127.0.0.1:8000/docs
+2025-04-12 01:08:00,337 - INFO - Respuesta: 200
+2025-04-12 01:08:01,459 - INFO - Solicitud: GET http://127.0.0.1:8000/openapi.json
+2025-04-12 01:08:01,562 - INFO - Respuesta: 200
+2025-04-12 01:08:37,523 - INFO - Solicitud: GET http://127.0.0.1:8000/docs
+2025-04-12 01:08:37,524 - INFO - Respuesta: 200
+2025-04-12 01:08:37,694 - INFO - Solicitud: GET http://127.0.0.1:8000/openapi.json
+2025-04-12 01:08:37,702 - INFO - Respuesta: 200
+2025-04-12 01:08:38,708 - INFO - Solicitud: GET http://127.0.0.1:8000/docs
+2025-04-12 01:08:38,709 - INFO - Respuesta: 200
+2025-04-12 01:08:38,809 - INFO - Solicitud: GET http://127.0.0.1:8000/openapi.json
+2025-04-12 01:08:38,809 - INFO - Respuesta: 200
+2025-04-12 01:08:52,578 - INFO - Solicitud: GET http://127.0.0.1:8000/api/elements/
+2025-04-12 01:08:52,980 - INFO - Se obtuvieron 70 resultados
+2025-04-12 01:08:53,006 - INFO - Respuesta: 200

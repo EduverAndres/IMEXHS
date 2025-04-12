@@ -1,0 +1,27 @@
+2025-04-09 17:09:36,579 - ERROR - El archivo sample-02-csv no existe.
+2025-04-09 17:15:18,395 - ERROR - El archivo sample-02-csv.cvs no existe.
+2025-04-09 17:19:19,156 - ERROR - El archivo sample-02-csv.csv no existe.
+2025-04-09 17:19:19,157 - ERROR - El archivo DICOM sample-02-dicom.dcm no existe.
+2025-04-09 17:19:19,158 - ERROR - El archivo DICOM sample-02-dicom-2.dcm no existe.
+2025-04-10 00:13:49,145 - ERROR - El archivo sample-02-csv.csv no existe.
+2025-04-10 00:13:49,155 - ERROR - El archivo DICOM sample-02-dicom.dcm no existe.
+2025-04-10 00:13:49,158 - ERROR - El archivo DICOM sample-02-dicom-2.dcm no existe.
+2025-04-10 00:15:16,249 - ERROR - El archivo segundo_prolema/project-root/data/sample-02-csv.csv no existe.
+2025-04-10 00:15:16,272 - ERROR - El archivo DICOM sample-02-dicom.dcm no existe.
+2025-04-10 00:15:16,272 - ERROR - El archivo DICOM sample-02-dicom-2.dcm no existe.
+2025-04-10 00:18:12,210 - ERROR - El archivo sample-02-csv.csv no existe.
+2025-04-10 00:18:12,211 - ERROR - El archivo DICOM sample-02-dicom.dcm no existe.
+2025-04-10 00:18:12,212 - ERROR - El archivo DICOM sample-02-dicom-2.dcm no existe.
+2025-04-10 00:21:03,415 - ERROR - El archivo C:\Users\Danna\Desktop\Prueba_Tecnica\segundo_prolema\project-root\segundo_prolema\project-root\data\sample-02-csv.csv no existe.
+2025-04-10 00:21:03,416 - ERROR - El archivo DICOM C:\Users\Danna\Desktop\Prueba_Tecnica\segundo_prolema\project-root\segundo_prolema\project-root\data\sample-02-dicom.dcm no existe.
+2025-04-10 00:21:03,417 - ERROR - El archivo DICOM C:\Users\Danna\Desktop\Prueba_Tecnica\segundo_prolema\project-root\segundo_prolema\project-root\data\sample-02-dicom-2.dcm no existe.
+2025-04-10 00:24:41,713 - ERROR - El archivo sample-02-csv.csv no existe.
+2025-04-10 00:24:41,714 - ERROR - El archivo DICOM sample-02-dicom.dcm no existe.
+2025-04-10 00:24:41,715 - ERROR - El archivo DICOM sample-02-dicom-2.dcm no existe.
+2025-04-10 00:32:04,678 - ERROR - No se pudo procesar la imagen DICOM: Cannot handle this data type: (1, 1, 512), |u1
+2025-04-10 00:47:17,148 - ERROR - No se pudo procesar la imagen DICOM: Cannot handle this data type: (1, 1, 512), |u1
+2025-04-10 00:52:56,747 - ERROR - No se pudo procesar la imagen DICOM: Cannot handle this data type: (1, 1, 512), |u1
+2025-04-10 00:54:16,587 - ERROR - No se pudo procesar la imagen DICOM: Cannot handle this data type: (1, 1, 512), |u1
+2025-04-12 00:01:03,803 - ERROR - No se pudo procesar la imagen DICOM: Cannot handle this data type: (1, 1, 512), |u1
+2025-04-12 00:24:15,635 - ERROR - No se pudo procesar la imagen DICOM: Cannot handle this data type: (1, 1, 512), |u1
+2025-04-12 00:48:19,706 - ERROR - No se pudo procesar la imagen DICOM: Cannot handle this data type: (1, 1, 512), |u1
